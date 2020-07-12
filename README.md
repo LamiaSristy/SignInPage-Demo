@@ -1,51 +1,24 @@
-# SignInPage-Demo
-Project Name
-One paragraph statement about the project.
+# Simple Grid Project
 
-screenshot
+> In this project we created a new page using css grid [YouTube Clone](https://raw.githack.com/DcRonan/YouTube/feature1/index.html)
 
-Additional description about the project and its features.
+<img src="images/youtube-clone-home.png">
 
-Built With
-Major languages,
-frameworks,
-technologies used
-Live Demo
-Live Demo Link
+## Built With
 
-Getting Started
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
+- HTML
+- CSS
 
-To get a local copy up and running follow these simple example steps.
+## Authors
 
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
-Authors
-👤 Author1
+👤 **Lamia Sristy**
 
-Github: @githubhandle
-Twitter: @twitterhandle
-Linkedin: linkedin
-👤 Author2
+- Github: [@LamiaSristy](https://github.com/LamiaSristy)
 
-Github: @githubhandle
-Twitter: @twitterhandle
-Linkedin: linkedin
-🤝 Contributing
-Contributions, issues and feature requests are welcome!
+## Show your support
 
-Feel free to check the issues page.
-
-Show your support
 Give a ⭐️ if you like this project!
 
-Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
-📝 License
-This project is MIT licensed.
+## 📝 License
+
+This project is [MIT](lic.url) licensed.
