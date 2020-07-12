@@ -1,6 +1,6 @@
 # Simple Grid Project
 
-> In this project we created a new page using css grid [YouTube Clone](https://raw.githack.com/DcRonan/YouTube/feature1/index.html)
+> In this project we created a new page using css grid [Live Demo](https://raw.githack.com/DcRonan/YouTube/feature1/index.html)
 
 <img src="images/youtube-clone-home.png">
 

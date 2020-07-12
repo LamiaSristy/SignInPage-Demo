@@ -75,7 +75,8 @@ body {
 
 .center-style{
     align-self: center; 
-    padding-left: 10rem;
+    padding-left: 15rem;
+    margin-bottom: -30px;
   }
 
   .p-formintro{
@@ -97,7 +98,7 @@ body {
 }
 
 .example{
-    background-color: white;    
+    /* background-color: white;     */
     padding-left: 20px;
 }
 .flex-formhead{
